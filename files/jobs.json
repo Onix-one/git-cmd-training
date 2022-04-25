@@ -1,0 +1,10 @@
+{
+  "Jobs": {
+    "QA": {
+      "ContactEmail": "user@mail.ru"
+    },
+    "Tester": {
+      "ContactEmail": "user2@mail.ru"
+    }
+  }
+}
